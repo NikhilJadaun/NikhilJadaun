@@ -1,71 +1,115 @@
 <div align="center">
+  <img src="assets/banner.svg" alt="Nikhil Jadaun" width="100%">
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=180&section=header&text=Nikhil%20Jadaun&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20%26%20Python&descAlignY=58&descSize=18" width="100%" />
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Python+%7C+Java+%7C+React+%7C+Firebase;Open+to+Fresher+Roles+%C2%B7+Remote+or+Noida%2FNCR" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Nikhil+%F0%9F%91%8B;Software+Developer+%7C+Integrated+M.Tech+(CSE);Java+%7C+Python+%7C+SQL+%7C+React;Open+to+fresher+software+roles" alt="Typing animation" />
+
+  <br /><br />
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-cerulean--sable373e60.netlify.app-58a6ff?style=for-the-badge&logo=netlify&logoColor=white)](https://cerulean-sable373e60.netlify.app)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-nikhiljadaun11-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/nikhiljadaun11)
+  [![Email](https://img.shields.io/badge/Email-nikhiljadaun37%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhiljadaun37@gmail.com)
 
 </div>
 
 ---
 
-### 👋 About Me
+## 👨‍💻 About Me
 
-- 🎓 Integrated B.Tech + M.Tech (CSE) student at **NIET, Greater Noida** (2022–2027)
-- 🛠️ Building full-stack and Python projects — currently working on **Jravel**, an AI-powered travel planner
-- 💼 Completed a Python development internship at **Codec**
-- 📄 Author of a research paper on collaborative travel planning (in preparation)
-- 📫 Reach me: **nikhiljadaun37@gmail.com**
+Software Developer and Integrated M.Tech (CSE) student looking for a **fresher role** where I can apply my problem-solving skills, programming expertise and a continuous learning mindset in a professional software development environment.
+
+- 🎓 Pursuing Integrated M.Tech (CSE) at **Noida Institute of Engineering & Technology**, Greater Noida (Expected 2027)
+- 🚀 Building **Jravel**, an AI-powered collaborative travel planner
+- 💪 Strong in **Data Structures & Algorithms** and **Database Management Systems**
+- 🌱 Always learning and open to new opportunities
 
 ---
 
-### 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=java,py,mysql,html,css,react,firebase,git,github,vscode,idea&perline=11" alt="Tech stack icons" />
 
 </div>
 
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/NikhilJadaun/Jravel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikhilJadaun&repo=Jravel&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" />
-</a>
-<a href="https://github.com/NikhilJadaun/Rock-Paper-Scissors">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikhilJadaun&repo=Rock-Paper-Scissors&theme=default&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" />
-</a>
-
-</div>
+| Category | Skills |
+| --- | --- |
+| **Languages** | Java, Python (Basic), SQL, HTML, CSS |
+| **Libraries** | ZXing, Tkinter |
+| **Frontend / Backend** | React, Firebase (Auth, Firestore), REST API |
+| **AI / Maps** | Gemini AI, Maps |
+| **Tools** | Git, VS Code, IntelliJ IDEA |
+| **Strong Subjects** | Data Structures & Algorithms, Database Management Systems |
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<div align="center">
+### ✈️ Jravel – AI Powered Travel Planner &nbsp;`May 2026`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NikhilJadaun&show_icons=true&count_private=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&hide_border=false" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilJadaun&background=ffffff&border=000000&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=000000" />
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Maps](https://img.shields.io/badge/Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</div>
+- Engineered a full-stack travel planner enabling **collaborative trip management** with **real-time itinerary updates**.
+- Configured a **2-agent Gemini AI workflow** for personalized destination trip planning, reducing planning effort by **60%**.
+- Integrated **Firebase Auth, Firestore, and real-time chat**, improving secure collaboration efficiency by **45%**.
+
+### ✊ Rock Paper Scissors Game &nbsp;`Sep 2025`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+- Built a **command-line Rock-Paper-Scissors game** applying core programming concepts and control flow.
+- Implemented user input handling, conditional logic, and random number generation for gameplay.
+- Applied decision-making logic to determine outcomes between user and computer, strengthening problem-solving skills.
 
 ---
 
+## 💼 Experience
+
+### Python Development Intern — Codec &nbsp;`Aug 2025 – Sep 2025` · Remote
+
+- Completed a 1-month Python development internship building **interactive desktop games**, strengthening practical software development skills through project-based implementation.
+- Developed **modular Python applications** using reusable functions and structured control flow, reducing repeated logic across game components by **30%**.
+- Implemented **event-driven gameplay features** for Rock Paper Scissors, improving user interaction flow across **10+ input and result scenarios**.
+- Refined debugging and testing workflows by validating game outcomes, input handling, and edge cases across **20+ gameplay conditions**.
+
+---
+
+## 🎓 Education
+
+| Course | Institute | Board / University | Year | Score |
+| --- | --- | --- | --- | --- |
+| **Integrated M.Tech (CSE)** | Noida Institute of Engineering & Technology, Greater Noida, UP | Dr. A.P.J. Abdul Kalam Technical University (AKTU) | Expected 2027 | 6.7 CGPA |
+| **12th** | Kiddy's Corner Public School, Balwant Nagar, Gwalior | CBSE | 2021–2022 | 72% |
+| **10th** | Oxford Public School, Shivpuri Link, Gwalior | CBSE | 2019–2020 | 66% |
+
+---
+
+## 📜 Certifications
+
+- 🏅 **Spring Boot, DevOps Tools and Capstone Project** — Infosys Springboard, 2025
+
+---
+
+## 📫 Let's Connect
+
+I'm actively looking for fresher software developer opportunities. Feel free to reach out!
+
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhiljadaun37@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhiljadaun11/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NikhilJadaun)
+  [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-58a6ff?style=for-the-badge&logo=netlify&logoColor=white)](https://cerulean-sable373e60.netlify.app)
+  [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/nikhiljadaun11)
+  [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhiljadaun37@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=100&section=footer" width="100%" />
+  <br />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="Footer wave" />
 
 </div>
