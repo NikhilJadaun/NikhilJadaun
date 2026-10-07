@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Nikhil Jadaun" width="100%">
+  <img src="assets/banner.svg" alt="" width="100%">
 </div>
 
 <div align="center">
