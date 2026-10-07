@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Nikhil+%F0%9F%91%8B;Software+Developer+%7C+Integrated+M.Tech+(CSE);Java+%7C+Python+%7C+SQL+%7C+React;Open+to+fresher+software+roles" alt="Typing animation" />
+  <img src="https://github.com/NikhilJadaun/Template/blob/main/banner.svg" />
 
   <br /><br />
 
