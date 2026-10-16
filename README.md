@@ -6,7 +6,7 @@
 
   <br /><br />
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-cerulean--sable373e60.netlify.app-58a6ff?style=for-the-badge&logo=netlify&logoColor=white)](https://cerulean-sable373e60.netlify.app)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-cerulean--sable373e60.netlify.app-58a6ff?style=for-the-badge&logo=netlify&logoColor=white)](https://cerulean-sable-373e60.netlify.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-nikhiljadaun11-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/nikhiljadaun11)
   [![Email](https://img.shields.io/badge/Email-nikhiljadaun37%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhiljadaun37@gmail.com)
 
